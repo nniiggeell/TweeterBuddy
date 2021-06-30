@@ -1,6 +1,6 @@
-# untitled
+# TweeterBuddy
 
-A new Flutter project.
+Frontend for Orbital 2021 project for the team Tomatinator-3000
 
 ## Getting Started
 
